@@ -9,6 +9,7 @@
     "start": "kz-commit",
     "kz-ci": "npx kz-commit"
   },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/perfectyang/test-shell.git"
